@@ -10,4 +10,4 @@ class FileOperation:
 
     def __init__(self):
         print('shop')
-        print(1)
+        print(2)
