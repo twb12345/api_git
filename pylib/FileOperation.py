@@ -7,3 +7,6 @@
 
 class FileOperation:
     pass
+
+    def __init__(self):
+        print('shop')
