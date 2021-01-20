@@ -5,10 +5,8 @@
 @Function: excel操作类
 """
 
+import xlrd
+
 class ExcelOperation:
 
-    def __init__(self):
-        pass
-
-    def test(self):
-        pass
+    pass
