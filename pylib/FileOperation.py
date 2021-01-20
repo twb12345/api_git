@@ -4,10 +4,3 @@
 @FileName: FileOperation.py
 @Function: 文件操作类
 """
-
-class FileOperation:
-    pass
-
-    def __init__(self):
-        print('shop')
-        print(2)

@@ -2,7 +2,7 @@
 @Time    : 2021/1/15 12:00
 @Author  : tangweibin
 @FileName: RequestOperation.py
-@Function: requests库的操作类
+@Function: requests库操作类
 """
 
 import requests
