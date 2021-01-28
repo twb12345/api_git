@@ -6,13 +6,11 @@
 """
 
 
-def foo():
+def foo(num):
     print("starting...")
-    while True:
-        res = yield 4
-        print("res:",res)
+    while num < 5:
+        yield num +1
+        num = num + 1
+for n in foo(0):
+    print(n)
 
-g = foo()
-print(next(g))
-print("*"*20)
-print(next(g))
